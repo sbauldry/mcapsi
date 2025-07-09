@@ -2,7 +2,7 @@
 ### Author:  S Bauldry
 ### Date:    May 17, 2025
 
-### Working directory and libraries
+### Loading packages
 library(tidyverse) # general purpose package
 library(lme4)      # package for multilevel models
 library(plm)       # package for panel models
