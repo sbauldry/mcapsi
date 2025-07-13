@@ -64,5 +64,5 @@ sem (drinkd_1 <- U@1 cesd_1@a _cons@b, var(e.drinkd_1@c)) ///
 	(drinkd_4 <- U@1 cesd_4@a _cons@b, var(e.drinkd_4@c))
 	
 * note: see Allison et al. (2017) Appendix B for a discussion of the contortions
-* needed to get Stata to fit a fixef effects model with state effects in the
+* needed to get Stata to fit a fixed effects model with state effects in the
 * SEM framework
